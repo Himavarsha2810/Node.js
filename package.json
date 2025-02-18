@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node js repo for node classes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "hima",
+  "license": "ISC",
+  "dependencies": {
+  "nodemon": "^3.1.9"
+  }
+  
+}
