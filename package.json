@@ -2,10 +2,10 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "node js repo for node classes",
-  "main": "server.js",
+  "main": "get.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon get.js"
   },
   "author": "hima",
   "license": "ISC",
